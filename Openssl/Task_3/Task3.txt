@@ -1,0 +1,3 @@
+Computer security basically is the protection of computer systems and information from harm, theft, and unauthorized use. It is the process of preventing and detecting unauthorized use of your computer system.
+
+There are various types of computer security which is widely used to protect the valuable information of an organization.
